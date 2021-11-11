@@ -183,7 +183,6 @@ div.bar .content .actions button {
 
 div.wrapper-content {
   display: flex;
-
 }
 
 div.wrapper-content aside.profile {
@@ -390,4 +389,21 @@ div.wrapper-content aside.widgets .follow ul li > a {
   text-decoration: none;
   color:#ccd6dd;
   font-size: 14px;
+}
+
+div.wrapper-content aside.widgets .trends {
+  margin-top: 10px;
+  padding-bottom: 15px;
+}
+
+div.wrapper-content aside.widgets .trends ul {
+  list-style: none;
+  color: #3bb9e3;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div.wrapper-content aside.widgets .trends ul li {
+  padding: 3px 0;
 }
